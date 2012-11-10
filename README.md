@@ -1,0 +1,1 @@
+Simple plugin to add render as JackSON for JSON output and replace the default grails JSON converter with jackson when urlmappings has parseRequest:true
